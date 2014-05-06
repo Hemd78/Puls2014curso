@@ -1,0 +1,2 @@
+etiqueta de ID y Class
+ID es para nunca repetir y la Class es para repetirce

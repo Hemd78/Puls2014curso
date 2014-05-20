@@ -1,2 +1,6 @@
-etiqueta de ID y Class
-ID es para nunca repetir y la Class es para repetirce
+-etiqueta de ID y Class
+-ID es para nunca repetir y la Class es para repetirce
+-Las etiquetas van por encima de los ID´s
+-Medidas en vez de pixeles "EM" se trabaja así para poder modificar todo rapidamente en proporción a el tamaño de la "M" en pixeles.
+- display - float - posicion " Para poner items en el mismo renglón"
+-padding es el margen interno y margin es el marjen externo.
